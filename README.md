@@ -66,7 +66,7 @@ DocSpot is a full-stack web application that allows users to book doctor appoint
 1. **Clone the Repository**
 
 
-git clone https://github.com/your-username/book-a-doctor.git
+https://github.com/JayavardhanYerubandi/DoctorApp/
 cd book-a-doctor
 
 ### 2 Backend Setup
